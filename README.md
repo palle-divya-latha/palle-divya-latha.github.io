@@ -37,7 +37,7 @@
     top: 81px;
     left: 132px;
     border-radius: 20px;
-    background-color: #f7e2eea0;
+    background-color: #f0e8edfd0;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
     row-gap: 100px;
     
